@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: justify;
+}
+.color-red{
+    color: red;
+}
+.d-block{
+    height: 60vh;
+}
